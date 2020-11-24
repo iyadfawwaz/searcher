@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Searcher</string>
+    <string name="title_home">الرئيسية</string>
+    <string name="title_dashboard">البحث</string>
+    <string name="title_notifications">اشعارات</string>
+    <string name="admin">اسم المستخدم</string>
+    <string name="address">عنوان المخدم</string>
+    <string name="length">طول كلمة المرور</string>
+    <string name="start">البداية : مثلاَ a</string>
+    <string name="end">النهاية : مثلاَ f</string>
+    <string name="specialsearch">بحث مخصص</string>
+    <string name="starting">بدأ البحث</string>
+    <string name="info">\n Syrian Center For ProProgramming المركز السوري للبرمجة المتقدمة</string>
+</resources>
